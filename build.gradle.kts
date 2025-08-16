@@ -92,7 +92,7 @@ dependencies {
     uiTestImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0")
 
     // JUnit 5 is required for UI tests
-    uiTestImplementation("org.junit.jupiter:junit-jupiter:5.11.4")
+    uiTestImplementation("org.junit.jupiter:junit-jupiter:5.13.4")
     uiTestRuntimeOnly("org.junit.platform:junit-platform-launcher")
 
 }

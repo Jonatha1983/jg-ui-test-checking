@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.ui
+package com.github.jonatha1983.jguitestchecking.ui
 
 import com.intellij.ide.starter.buildTool.GradleBuildTool
 import com.intellij.ide.starter.community.model.BuildType
@@ -31,7 +31,7 @@ class TemplatePaths : GlobalPaths(Git.getRepoRoot().resolve("build"))
  * - Configure VM options for optimal test execution
  * - Apply OS-specific settings for compatibility
  *
- * @see [IntelliJ IDE Starter Documentation](https://github.com/JetBrains/intellij-ide-starter)
+ * @see [IntelliJ IDE Starter Documentation](https://github.com/jonatha1983/intellij-ide-starter)
  */
 class Setup {
 

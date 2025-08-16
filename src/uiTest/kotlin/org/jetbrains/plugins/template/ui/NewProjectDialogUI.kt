@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.ui
+package com.github.jonatha1983.jguitestchecking.ui
 
 import com.intellij.driver.sdk.ui.Finder
 import com.intellij.driver.sdk.ui.components.ComponentData

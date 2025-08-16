@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.ui
+package com.github.jonatha1983.jguitestchecking.ui
 
 
 import com.intellij.driver.sdk.ui.components.button
@@ -10,9 +10,9 @@ import com.intellij.driver.sdk.waitForIndicators
 import com.intellij.ide.starter.driver.engine.BackgroundRun
 import com.intellij.ide.starter.driver.engine.runIdeWithDriver
 import com.intellij.ide.starter.junit5.config.UseLatestDownloadedIdeBuild
-import org.jetbrains.plugins.template.MyBundle
-import org.jetbrains.plugins.template.ui.toolwindow.jlabel
-import org.jetbrains.plugins.template.ui.toolwindow.myToolWindow
+import com.github.jonatha1983.jguitestchecking.MyBundle
+import com.github.jonatha1983.jguitestchecking.ui.toolwindow.jlabel
+import com.github.jonatha1983.jguitestchecking.ui.toolwindow.myToolWindow
 import org.junit.jupiter.api.*
 import org.junit.jupiter.api.extension.ExtendWith
 import java.nio.file.Paths

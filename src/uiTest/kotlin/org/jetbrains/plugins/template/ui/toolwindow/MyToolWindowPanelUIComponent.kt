@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.ui.toolwindow
+package com.github.jonatha1983.jguitestchecking.ui.toolwindow
 
 import com.intellij.driver.sdk.ui.Finder
 import com.intellij.driver.sdk.ui.components.*
@@ -26,7 +26,7 @@ import kotlin.time.Duration.Companion.seconds
  * 3. **Component Classes**: Custom classes that represent your plugin's UI components
  * 4. **Allure Steps**: Optional test reporting integration for better test visibility
  *
- * @see [Driver SDK Documentation](https://github.com/JetBrains/intellij-ide-starter)
+ * @see [Driver SDK Documentation](https://github.com/jonatha1983/intellij-ide-starter)
  */
 
 /**
